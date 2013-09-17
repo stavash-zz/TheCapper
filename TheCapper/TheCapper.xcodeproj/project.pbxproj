@@ -19,6 +19,7 @@
 		1F040A2517D9F16800AFC8D9 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F040A2317D9F16800AFC8D9 /* MainStoryboard.storyboard */; };
 		1F040A2817D9F16800AFC8D9 /* TheCapperViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F040A2717D9F16800AFC8D9 /* TheCapperViewController.m */; };
 		1F040A3017D9F1DC00AFC8D9 /* button.png in Resources */ = {isa = PBXBuildFile; fileRef = 1F040A2F17D9F1DC00AFC8D9 /* button.png */; };
+		1FCF8B5617E82A97002A9C2E /* button2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1FCF8B5517E82A97002A9C2E /* button2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		1F040A2717D9F16800AFC8D9 /* TheCapperViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TheCapperViewController.m; sourceTree = "<group>"; };
 		1F040A2E17D9F18500AFC8D9 /* Configuration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Configuration.h; sourceTree = "<group>"; };
 		1F040A2F17D9F1DC00AFC8D9 /* button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button.png; sourceTree = "<group>"; };
+		1FCF8B5517E82A97002A9C2E /* button2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 		1F040A1217D9F16800AFC8D9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1FCF8B5517E82A97002A9C2E /* button2.png */,
 				1F040A2F17D9F1DC00AFC8D9 /* button.png */,
 				1F040A1317D9F16800AFC8D9 /* TheCapper-Info.plist */,
 				1F040A1417D9F16800AFC8D9 /* InfoPlist.strings */,
@@ -167,6 +170,7 @@
 				1F040A1E17D9F16800AFC8D9 /* Default.png in Resources */,
 				1F040A2017D9F16800AFC8D9 /* Default@2x.png in Resources */,
 				1F040A2217D9F16800AFC8D9 /* Default-568h@2x.png in Resources */,
+				1FCF8B5617E82A97002A9C2E /* button2.png in Resources */,
 				1F040A2517D9F16800AFC8D9 /* MainStoryboard.storyboard in Resources */,
 				1F040A3017D9F1DC00AFC8D9 /* button.png in Resources */,
 			);
@@ -306,6 +310,7 @@
 				1F040A2D17D9F16800AFC8D9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
