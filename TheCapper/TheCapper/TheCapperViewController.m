@@ -247,5 +247,9 @@ typedef enum {
     [self loadMainImageView];
     [self updateInterface];
 }
+- (IBAction)logPressed:(id)sender {
+    NSLog(@"__Code__");
+    NSLog(@"%@", self.lblCode.text);
+}
 
 @end

@@ -6,6 +6,6 @@
 //  Copyright (c) 2013 Stav Ashuri. All rights reserved.
 //
 
-#define kConfigurationImageName @"button2"
+#define kConfigurationImageName @"edit-border"
 #define kConfigurationCapStepperSensitivity 5.0
 #define kConfigurationStretchStepperSensitivity 10.0
